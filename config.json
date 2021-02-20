@@ -1,0 +1,10 @@
+{
+    "database": {
+        "host": "digiprexapi.ctky9owxz1tq.ap-south-1.rds.amazonaws.com",
+        "user": "digiprex",
+        "password": "LDcF4K0lD0tSTJYwIUmi",
+        "database": "gkc_husky",
+        "dialect":"mysql"
+    },
+    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}
